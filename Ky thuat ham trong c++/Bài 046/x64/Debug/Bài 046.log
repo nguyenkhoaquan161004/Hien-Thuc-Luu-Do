@@ -1,0 +1,4 @@
+﻿  Bai_046.cpp
+C:\Users\Admin\OneDrive\Máy tính\C++\Ky thuat ham trong c++\Bài 046\Bai_046.cpp(10,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\OneDrive\Máy tính\C++\Ky thuat ham trong c++\Bài 046\Bai_046.cpp(22,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bài 046.vcxproj -> C:\Users\Admin\OneDrive\Máy tính\C++\Ky thuat ham trong c++\x64\Debug\Bài 046.exe
